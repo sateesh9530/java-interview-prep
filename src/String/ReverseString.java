@@ -6,7 +6,7 @@
  * Space Complexity: O(n) (char array to store the string).
  * Edge Cases: Handles null input and empty strings.
  */
-package ReverseString;
+package String;
 
 public class ReverseString {
     public static void main(String[] args) {
